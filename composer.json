@@ -1,0 +1,28 @@
+{
+    "name": "rongqiangqin/baiduspeech",
+    "type": "php-packages",
+    "description": "百度语音合成",
+    "keywords": ["baiduspeech", "百度语音合成"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/xiaopenggithub/rongqiangqin_baiduspeech/issues",
+        "forum": "http://www.xiaopeng.info/",
+        "wiki": "http://www.xiaopeng.info",
+        "source": "https://github.com/xiaopenggithub/rongqiangqin_baiduspeech"
+    },
+    "authors": [
+        {
+            "name": "Qinrongqiang",
+            "email": "361018729@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "rongqiangqin\\baiduspeech\\": "src" }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
